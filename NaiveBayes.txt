@@ -1,0 +1,40 @@
+{'hooks': None, 'learner': GaussianNB(var_smoothing=1e-10), 'name': 'nv1', 'random': True, 'random_map': {'var_smoothing': [1e-10, 1e-09, 1e-08]}, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'hooks': None, 'learner': GaussianNB(var_smoothing=1e-08), 'name': 'nv2', 'random': True, 'random_map': {'var_smoothing': [1e-10, 1e-09, 1e-08]}, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'hooks': None, 'learner': GaussianNB(var_smoothing=1e-10), 'name': 'nv3', 'random': True, 'random_map': {'var_smoothing': [1e-10, 1e-09, 1e-08]}, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'hooks': None, 'learner': GaussianNB(), 'name': 'nv4', 'random': True, 'random_map': {'var_smoothing': [1e-10, 1e-09, 1e-08]}, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'hooks': None, 'learner': GaussianNB(), 'name': 'nv5', 'random': True, 'random_map': {'var_smoothing': [1e-10, 1e-09, 1e-08]}, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'hooks': None, 'learner': GaussianNB(var_smoothing=1e-08), 'name': 'nv6', 'random': True, 'random_map': {'var_smoothing': [1e-10, 1e-09, 1e-08]}, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'hooks': None, 'learner': GaussianNB(var_smoothing=1e-08), 'name': 'nv7', 'random': True, 'random_map': {'var_smoothing': [1e-10, 1e-09, 1e-08]}, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'hooks': None, 'learner': GaussianNB(), 'name': 'nv8', 'random': True, 'random_map': {'var_smoothing': [1e-10, 1e-09, 1e-08]}, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'hooks': None, 'learner': GaussianNB(), 'name': 'nv9', 'random': True, 'random_map': {'var_smoothing': [1e-10, 1e-09, 1e-08]}, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'hooks': None, 'learner': GaussianNB(var_smoothing=1e-08), 'name': 'nv10', 'random': True, 'random_map': {'var_smoothing': [1e-10, 1e-09, 1e-08]}, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+Run # 0
+======
+setting: standardizeG|nv10
+iter 0 : [0.8454234713254842, 0.742, 0.013333333333333334, 0.8643333333333333, 0.9823477493380406]
+setting: standardizeP|nv8
+iter 1 : [0.8454234713254842, 0.742, 0.013333333333333334, 0.8643333333333333, 0.9823477493380406]
+setting: standardizeu|nv5
+iter 2 : [0.8454234713254842, 0.742, 0.013333333333333334, 0.8643333333333333, 0.9823477493380406]
+setting: standardizen|nv6
+iter 3 : [0.8454234713254842, 0.742, 0.013333333333333334, 0.8643333333333333, 0.9823477493380406]
+Run # 1
+======
+setting: standardizek|nv8
+iter 0 : [0.8454234713254842, 0.742, 0.013333333333333334, 0.8643333333333333, 0.9823477493380406]
+setting: standardizem|nv6
+iter 1 : [0.8454234713254842, 0.742, 0.013333333333333334, 0.8643333333333333, 0.9823477493380406]
+setting: standardizeh|nv9
+iter 2 : [0.8454234713254842, 0.742, 0.013333333333333334, 0.8643333333333333, 0.9823477493380406]
+setting: standardizes|nv1
+iter 3 : [0.8454234713254842, 0.742, 0.013333333333333334, 0.8643333333333333, 0.9823477493380406]
+Run # 2
+======
+setting: standardizep|nv7
+iter 0 : [0.8454234713254842, 0.742, 0.013333333333333334, 0.8643333333333333, 0.9823477493380406]
+setting: standardizeg|nv5
+iter 1 : [0.8454234713254842, 0.742, 0.013333333333333334, 0.8643333333333333, 0.9823477493380406]
+setting: standardizey|nv8
+iter 2 : [0.8454234713254842, 0.742, 0.013333333333333334, 0.8643333333333333, 0.9823477493380406]
+setting: standardizeD|nv1
+iter 3 : [0.8454234713254842, 0.742, 0.013333333333333334, 0.8643333333333333, 0.9823477493380406]

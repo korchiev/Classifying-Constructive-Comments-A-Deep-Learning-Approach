@@ -1,0 +1,19 @@
+{'dropout_rate': 0.2,'epochs': 19,'learning_rate': 0.1,'name': '0',}
+
+{'dropout_rate': 0.2,'epochs': 20,'learning_rate': 0.001,'name': '1',}
+
+{'dropout_rate': 0.1,'epochs': 14,'learning_rate': 0.01,'name': '2',}
+
+{'dropout_rate': 0.2,'epochs': 13,'learning_rate': 0.1,'name': '3',}
+
+{'dropout_rate': 0.2,'epochs': 13,'learning_rate': 0.001,'name': '4',}
+
+{'dropout_rate': 0.05,'epochs': 15,'learning_rate': 0.001,'name': '5',}
+
+{'dropout_rate': 0.05,'epochs': 15,'learning_rate': 0.01,'name': '6',}
+
+{'dropout_rate': 0.1,'epochs': 12,'learning_rate': 1.0,'name': '7',}
+
+{'dropout_rate': 0.2,'epochs': 12,'learning_rate': 0.01,'name': '8',}
+
+{'dropout_rate': 0.1,'epochs': 18,'learning_rate': 1.0,'name': '9',}

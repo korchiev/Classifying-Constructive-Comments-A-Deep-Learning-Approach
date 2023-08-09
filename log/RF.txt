@@ -1,0 +1,44 @@
+{'hooks': None, 'learner': RandomForestClassifier(criterion='entropy', n_estimators=25), 'name': '0', 'random': True, 'random_map': {'criterion': ['gini', 'entropy'], 'n_estimators': (10, 100)}, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'hooks': None, 'learner': RandomForestClassifier(n_estimators=86), 'name': '1', 'random': True, 'random_map': {'criterion': ['gini', 'entropy'], 'n_estimators': (10, 100)}, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'hooks': None, 'learner': RandomForestClassifier(criterion='entropy', n_estimators=43), 'name': '2', 'random': True, 'random_map': {'criterion': ['gini', 'entropy'], 'n_estimators': (10, 100)}, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'hooks': None, 'learner': RandomForestClassifier(n_estimators=50), 'name': '3', 'random': True, 'random_map': {'criterion': ['gini', 'entropy'], 'n_estimators': (10, 100)}, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'hooks': None, 'learner': RandomForestClassifier(criterion='entropy', n_estimators=81), 'name': '4', 'random': True, 'random_map': {'criterion': ['gini', 'entropy'], 'n_estimators': (10, 100)}, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'hooks': None, 'learner': RandomForestClassifier(criterion='entropy', n_estimators=30), 'name': '5', 'random': True, 'random_map': {'criterion': ['gini', 'entropy'], 'n_estimators': (10, 100)}, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'hooks': None, 'learner': RandomForestClassifier(n_estimators=35), 'name': '6', 'random': True, 'random_map': {'criterion': ['gini', 'entropy'], 'n_estimators': (10, 100)}, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'hooks': None, 'learner': RandomForestClassifier(n_estimators=31), 'name': '7', 'random': True, 'random_map': {'criterion': ['gini', 'entropy'], 'n_estimators': (10, 100)}, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'hooks': None, 'learner': RandomForestClassifier(criterion='entropy', n_estimators=86), 'name': '8', 'random': True, 'random_map': {'criterion': ['gini', 'entropy'], 'n_estimators': (10, 100)}, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'hooks': None, 'learner': RandomForestClassifier(criterion='entropy', n_estimators=28), 'name': '9', 'random': True, 'random_map': {'criterion': ['gini', 'entropy'], 'n_estimators': (10, 100)}, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+{'hooks': None, 'learner': RandomForestClassifier(n_estimators=20), 'name': '10', 'random': True, 'random_map': {'criterion': ['gini', 'entropy'], 'n_estimators': (10, 100)}, 'x_test': None, 'x_train': None, 'y_test': None, 'y_train': None}
+
+Run # 0
+======
+setting: normalizeq|10
+iter 0 : [0.9411764705882353, 0.9333333333333333, 0.05, 0.9416666666666667, 0.9491525423728814]
+setting: normalizep|7
+iter 1 : [0.9457729875378916, 0.936, 0.043333333333333335, 0.9463333333333332, 0.9557522123893806]
+setting: normalizeS|6
+iter 2 : [0.940700808625337, 0.9306666666666666, 0.048, 0.9413333333333334, 0.9509536784741145]
+setting: normalizeR|3
+iter 3 : [0.9417312226338835, 0.932, 0.04733333333333333, 0.9423333333333334, 0.9516678012253234]
+Run # 1
+======
+setting: normalizeV|6
+iter 0 : [0.9439032583137387, 0.9366666666666666, 0.048, 0.9443333333333332, 0.9512525389302641]
+setting: normalized|0
+iter 1 : [0.9404682274247492, 0.9373333333333334, 0.056, 0.9406666666666667, 0.9436241610738255]
+setting: normalizeu|1
+iter 2 : [0.9419703103913629, 0.9306666666666666, 0.04533333333333334, 0.9426666666666667, 0.953551912568306]
+setting: normalizec|4
+iter 3 : [0.9445005045408679, 0.936, 0.046, 0.945, 0.9531568228105907]
+Run # 2
+======
+setting: normalizeA|0
+iter 0 : [0.942683749157114, 0.932, 0.04533333333333334, 0.9433333333333332, 0.9536152796725784]
+setting: normalizeN|8
+iter 1 : [0.9427994616419919, 0.934, 0.04733333333333333, 0.9433333333333334, 0.951766304347826]
+setting: normalizel|9
+iter 2 : [0.9398648648648649, 0.9273333333333333, 0.046, 0.9406666666666667, 0.9527397260273973]
+setting: normalizem|3
+iter 3 : [0.9424823410696267, 0.934, 0.048, 0.9430000000000001, 0.9511201629327902]
+
+
